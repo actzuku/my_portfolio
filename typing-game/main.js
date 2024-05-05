@@ -12,7 +12,9 @@ const count = document.getElementById('count');
 
 // 複数のテキストを格納する配列
 const textLists = [
-  'Hello World','This is my App','How are you?',
+'Hello World',
+'This is my App',
+'How are you?',
 'Today is sunny','I love JavaScript!','Good morning',
 'I am Japanese','Let it be','Samurai',
 'Typing Game','Information Technology',
